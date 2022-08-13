@@ -1,0 +1,10 @@
+import math
+a = int(input("Vvod1: "))
+b = int(input("Vvod2: "))
+print("Summa: ", a + b)
+print("Raznitsa: ", a - b)
+print("Proizvedenie: ", a * b)
+print("Chastnoe: ", a / b)
+print("Ostatok ot deleniya: ", a % b)
+print("log10 a: ", math.log10(a))
+print("a^b: ", a ** b)
